@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction", "Introduction\Introduction.csproj", "{1EBD9876-6504-43AC-A5CF-027D9DE6FB71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introduction", "Introduction\Introduction.csproj", "{1EBD9876-6504-43AC-A5CF-027D9DE6FB71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModels", "ViewModels\ViewModels.csproj", "{BFB599C1-F288-4664-A7BF-B6E48F3DA038}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViewModels", "ViewModels\ViewModels.csproj", "{BFB599C1-F288-4664-A7BF-B6E48F3DA038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binding", "Binding\Binding.csproj", "{A76B7692-8024-49C1-B888-22464A4E7A24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BFB599C1-F288-4664-A7BF-B6E48F3DA038}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFB599C1-F288-4664-A7BF-B6E48F3DA038}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFB599C1-F288-4664-A7BF-B6E48F3DA038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A76B7692-8024-49C1-B888-22464A4E7A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76B7692-8024-49C1-B888-22464A4E7A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76B7692-8024-49C1-B888-22464A4E7A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76B7692-8024-49C1-B888-22464A4E7A24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
