@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introduction", "Introductio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViewModels", "ViewModels\ViewModels.csproj", "{BFB599C1-F288-4664-A7BF-B6E48F3DA038}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binding", "Binding\Binding.csproj", "{A76B7692-8024-49C1-B888-22464A4E7A24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binding", "Binding\Binding.csproj", "{A76B7692-8024-49C1-B888-22464A4E7A24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelBinder", "ModelBinder\ModelBinder.csproj", "{F897954E-E82D-475B-A9A4-693BD71A7867}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{A76B7692-8024-49C1-B888-22464A4E7A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A76B7692-8024-49C1-B888-22464A4E7A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A76B7692-8024-49C1-B888-22464A4E7A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F897954E-E82D-475B-A9A4-693BD71A7867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F897954E-E82D-475B-A9A4-693BD71A7867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F897954E-E82D-475B-A9A4-693BD71A7867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F897954E-E82D-475B-A9A4-693BD71A7867}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
